@@ -44,7 +44,7 @@ body{
      color: white;
      text-align: center;
      text-decoration: none;
-     padding-top: 12px;
+     padding-top: 15px;
     
 }
 
@@ -75,7 +75,7 @@ body{
      color       : white;
      text-align  : center;
      text-decoration : none;
-     padding-top     : 12px;
+     padding-top     : 15px;
 }
 
 /*======== MAIN =========*/
@@ -160,7 +160,7 @@ img.info-box-weather-icon{
      height : 30px;
      width  : 30px;
      margin : 10px;
-     float  :left; 
+     float  :right; 
 }
 
 h1.info-box-weather-icon{
